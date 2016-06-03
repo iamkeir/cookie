@@ -1,0 +1,15 @@
+{
+  "name": "cookie",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/iamkeir/cookie#readme",
+  "main": "README.md",
+  "author": "@iamkeir",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamkeir/cookie.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
